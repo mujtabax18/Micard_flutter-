@@ -25,6 +25,8 @@ class MyApp extends StatelessWidget {
              Text(
                "Muhammad Mujtaba",
                style: TextStyle(
+                 fontFamily: 'Pacifico',
+                 letterSpacing: 1.5,
                  fontSize: 30,
                  color: Colors.white,
                  fontWeight: FontWeight.bold,
@@ -33,9 +35,19 @@ class MyApp extends StatelessWidget {
               Text(
                 "Flutter Developer",
                 style: TextStyle(
+                  fontFamily: 'Source_Sans_Pro',
+                  letterSpacing: 1.5,
                   fontSize: 20,
                   color: Colors.white60,
                   fontWeight: FontWeight.bold,
+                ),
+              ),
+              SizedBox(
+                height: 10.0,
+                width: 175.0,
+                child: Divider(
+                  thickness: 1,
+                  color: Colors.white,
                 ),
               ),
               Card(
