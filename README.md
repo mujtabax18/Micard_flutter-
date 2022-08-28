@@ -1,16 +1,30 @@
-# micard
+It is my 2<sup>nd</sup> flutter app while learning the flutter. It just
+show My information as we use Card
 
-It is Micard Project app while learning the flutter development
+# Learning 
 
-## Getting Started
+I have learned and Used in this Project
 
-This project is a starting point for a Flutter application.
+1.  SafeArea
 
-A few resources to get you started if this is your first Flutter project:
+2.  Column
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3.  Children
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4.  Rows
+
+5.  CircleAvetar
+
+6.  Text
+
+7.  Fonts
+
+8.  Card
+
+9.  Icon
+
+10. Divider
+
+# Final Screenshot
+
+<img src="media/image1.png" style="width:2.93777in;height:4.30123in" />
